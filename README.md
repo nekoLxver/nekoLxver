@@ -1,6 +1,7 @@
 <img src="https://i.ytimg.com/vi/vD8SVB_Lu5M/maxresdefault.jpg">
 <h1 align="center">Hi 👋, I'm Eldar</h1>
 <h3 align="center">An eternal learner, 19 years old</h3>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://i.playground.ru/i/pix/2926233/image.jpg">
 
 - 🔭 I’m currently working on **my laziness**
@@ -11,8 +12,12 @@
 
 - ⚡ **Really good at push ups**
 
-<p align="left">
+<hr>
+
+<p align="left">At the moment, I am a second-year student at DSTU. I really like to solve problems at codewars, as well as making my own pet-projects.
 </p>
+
+<hr>
 
 ### <code><u>Languages and Tools I Use</u></code>
 <br />
@@ -26,6 +31,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" style="vertical-align:down; margin:4px">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="40" style="vertical-align:down; margin:4px">
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" style="vertical-align:down; margin:4px">
+
+ <hr>
 
 
 
