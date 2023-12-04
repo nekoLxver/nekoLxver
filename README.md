@@ -14,7 +14,7 @@
 
 <hr>
 
-<p align="left">At the moment, I am a second-year student at DSTU. I really like to solve problems at codewars, as well as making my own pet-projects.
+<p align="left">At the moment, I am a second-year student at DSTU. I really like to solve problems at codewars, as well as making my own pet-projects. You can always contact me on my mail.
 </p>
 
 <hr>
