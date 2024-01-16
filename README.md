@@ -25,7 +25,7 @@
 <p align="center">
 <!--Languages-->
  
-<img src="https://icons8.com/icon/mazno5QJBBis/lua-is-a-lightweight%2C-multi-paradigm-programming-language" height="40" style="vertical-align:down; margin:4px">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png" height="40" style="vertical-align:down; margin:4px">
  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="40" style="vertical-align:down; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" style="vertical-align:down; margin:4px">
