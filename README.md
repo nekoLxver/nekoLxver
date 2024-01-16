@@ -31,6 +31,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" style="vertical-align:down; margin:4px">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="40" style="vertical-align:down; margin:4px">
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" style="vertical-align:down; margin:4px">
+ <img src="https://w7.pngwing.com/pngs/199/348/png-transparent-javascript-programmer-programming-language-computer-programming-node-js-angle-text-rectangle.png" height="40" style="vertical-align:down; margin:4px">
 
  <hr>
 
