@@ -19,7 +19,7 @@
 
 <hr>
 
-### <code><u>Langueages and Tools i have experience with</u></code>
+### <code><u>Languages and Tools i have experience with</u></code>
 <br />
 
 <p align="center">
