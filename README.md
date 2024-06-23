@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my laziness**
 
-- 🌱 I’m currently learning **Vanilla JS**
+- 🌱 I’m currently learning **Aiogram**
 
 - 📫 How to reach me **n3kolxverwork@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <hr>
 
-### <code><u>Languages and Tools I Use</u></code>
+### <code><u>Langueages and Tools i have experience with</u></code>
 <br />
 
 <p align="center">
