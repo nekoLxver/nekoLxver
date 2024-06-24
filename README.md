@@ -32,7 +32,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="40" style="vertical-align:down; margin:4px">
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" style="vertical-align:down; margin:4px">
   <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png" height="40" style="vertical-align:down; margin:4px">
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/4343677/pub_62d2eef09f801562d7cd8f2d_62d2f10d37b710787ae6ee03/scale_1200" height="40" style="vertical-align:down; margin:4px">
+  <img src="https://cdn-edge.kwork.ru/pics/t3/59/27299074-64731aa3c72a9.jpg" height="40" style="vertical-align:down; margin:4px">
  <img src="https://inbenefit.com/wp-content/uploads/2017/06/5-лучших-javascript-фреймворков-для-разработки-мобильных-приложений-1.png" height="40" style="vertical-align:down; margin:4px">
   <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" height="40" style="vertical-align:down; margin:4px">
 
