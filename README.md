@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my laziness**
 
-- 🌱 I’m currently learning **Aiogram**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **n3kolxverwork@gmail.com**
 
