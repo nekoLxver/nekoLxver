@@ -35,6 +35,8 @@
   
   <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/15007/course_15007_image.png" height="40" style="vertical-align:down; margin:4px">
   <img src="https://cdn-edge.kwork.ru/pics/t3/59/27299074-64731aa3c72a9.jpg" height="40" style="vertical-align:down; margin:4px">
+  <img src="https://nextsoftware.io/files/images/logos/main/django-logo.png" height="40" style="vertical-align:down; margin:4px">
+   <img src="https://cdn.hackr.io/uploads/topics_svg/sql.svg" height="40" style="vertical-align:down; margin:4px">
  <img src="https://wiki.miranda-ng.org/images/thumb/6/6a/Lua-logo-nolabel.svg/1200px-Lua-logo-nolabel.svg.png?20150711195611" height="40" style="vertical-align:down; margin:4px">
   <img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" height="40" style="vertical-align:down; margin:4px">
 
