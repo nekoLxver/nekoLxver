@@ -1,10 +1,10 @@
 <img src="https://i.ytimg.com/vi/vD8SVB_Lu5M/maxresdefault.jpg">
 <h1 align="center">Hi 👋, I'm Eldar</h1>
-<h3 align="center">An eternal learner, 19 years old</h3>
+<h3 align="center">An eternal learner, 20 years old</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.playground.ru/i/pix/2926233/image.jpg">
 
-- 🔭 I’m currently working on **my laziness**
+- 🔭 I’m currently giving up about my **laziness**
 
 - 🌱 I’m currently learning **Django**
 
@@ -14,7 +14,7 @@
 
 <hr>
 
-<p align="left">At the moment, I am a second-year student at DSTU. I really like to solve problems at codewars, as well as making my own pet-projects. You can always contact me on my mail.
+<p align="left">At the moment, i am the second-year student at DSTU. I'm fond of solving various problems at codewars, as well as making my own pet-projects. You can always contact me on my mail.
 </p>
 
 <hr>
