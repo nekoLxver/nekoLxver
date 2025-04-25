@@ -1,6 +1,6 @@
 <img src="https://i.ytimg.com/vi/vD8SVB_Lu5M/maxresdefault.jpg">
 <h1 align="center">Hi 👋, I'm Eldar</h1>
-<h3 align="center">An eternal learner, 20 years old</h3>
+<h3 align="center">The eternal learner, 20 years old</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.playground.ru/i/pix/2926233/image.jpg">
 
